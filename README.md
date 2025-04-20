@@ -1,4 +1,4 @@
-### Airbnb EDA Project: New York 2024  
+### Airbnb Exploratory Data Analysis Project 
 
 ---
 
